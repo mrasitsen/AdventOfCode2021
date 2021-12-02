@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Day2_2 {
 
-
     public static void main(String[] args) throws FileNotFoundException {
         int totalX = 0, totalY = 0 , magnitute, aim = 0;
         String command;
